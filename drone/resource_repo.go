@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/Lucretius/terraform-provider-drone/drone/utils"
+	"github.com/benosman/terraform-provider-drone/drone/utils"
 	"github.com/drone/drone-go/drone"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/hashicorp/terraform/helper/validation"

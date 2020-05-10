@@ -1,4 +1,4 @@
-[![Build Status](http://34.212.160.193/api/badges/Lucretius/terraform-provider-drone/status.svg)](http://34.212.160.193/Lucretius/terraform-provider-drone)
+[![Build Status](http://34.212.160.193/api/badges/benosman/terraform-provider-drone/status.svg)](http://34.212.160.193/benosman/terraform-provider-drone)
 
 # Drone Terraform Provider
 
@@ -8,7 +8,7 @@ A [Terraform](https://www.terraform.io) provider for configuring the
 
 ## Installing
 
-You can download the plugin from the [Releases](https://github.com/Lucretius/terraform-provider-drone/releases/latest) page,
+You can download the plugin from the [Releases](https://github.com/benosman/terraform-provider-drone/releases/latest) page,
 for help installing please refer to the [Official Documentation](https://www.terraform.io/docs/plugins/basics.html#installing-a-plugin).
 
 
@@ -159,7 +159,7 @@ Note: In order to use the `drone_user` resource you must have admin privileges w
 To install from source:
 
 ```shell
-git clone git://github.com/Lucretius/terraform-provider-drone.git
+git clone git://github.com/benosman/terraform-provider-drone.git
 cd terraform-provider-drone
 go get
 go build

@@ -1,4 +1,4 @@
-module github.com/Lucretius/terraform-provider-drone
+module github.com/benosman/terraform-provider-drone
 
 go 1.12
 
